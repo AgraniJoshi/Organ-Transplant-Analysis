@@ -39,4 +39,8 @@ Lets see how we structuring a Tableau dashboard to visualize this data effective
 - Helps in assessing demand and shortage for specific organs
 
 ### **Dashboaeds**
-<img src="images/example.png" width="300" />
+<img src="images/DB-NoOfOrganDonation.png" width="1300" />
+<img src="images/DB-StatewiseRegistration.png" width="1300" />
+
+### **Conclusion**
+The **Organ Transplant Analysis Dashboard** provides a **data-driven overview** of transplant activities, donor trends, and regional disparities. While **kidney and liver transplants** have grown steadily, the **gap between waiting patients and available organs remains significant**. Living donors contribute heavily, but deceased donations need more awareness and policy support. Some regions outperform others in donor registration and successful transplants, highlighting best practices that could be scaled nationally. Strengthening **donation drives, infrastructure, and organ-matching systems** remains crucial to saving more lives.

@@ -1,5 +1,5 @@
 # Organ-Transplant-Analysis
-Organ transplant analysis in Tableau involves visualizing donor trends, organ transplant types, and the overall pledges made by Indians to donate organs. The primary transplant types include **kidney, liver, heart, lung, pancreas, and intestine transplants**, along with tissue donations such as **cornea, skin, and bone**. 
+Organ Transplant Analysis in Tableau involves visualizing donor trends, organ transplant types, and the overall pledges made by Indians to donate organs. The primary transplant types include **kidney, liver, heart, lung, pancreas, and intestine transplants**, along with tissue donations such as **cornea, skin, and bone**. 
 
 In India, organ donation pledges are tracked by the **National Organ and Tissue Transplant Organisation (NOTTO)**. As of In December 2024, the total number of organ donation pledges in India was 483,544, as reported by NOTTO.  
 
